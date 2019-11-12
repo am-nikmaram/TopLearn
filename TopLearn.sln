@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLearn.Web", "TopLearn.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLearn.DataLayer", "TopLearn.DataLayer\TopLearn.DataLayer.csproj", "{C8C0BF72-2882-40F0-A525-41018CFC04E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLearn.Core", "TopLearn.Core\TopLearn.Core.csproj", "{2BA9315A-97C2-4B2E-9BD5-9AFE3D8EBE56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8C0BF72-2882-40F0-A525-41018CFC04E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8C0BF72-2882-40F0-A525-41018CFC04E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8C0BF72-2882-40F0-A525-41018CFC04E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA9315A-97C2-4B2E-9BD5-9AFE3D8EBE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA9315A-97C2-4B2E-9BD5-9AFE3D8EBE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA9315A-97C2-4B2E-9BD5-9AFE3D8EBE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA9315A-97C2-4B2E-9BD5-9AFE3D8EBE56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

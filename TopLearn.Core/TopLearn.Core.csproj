@@ -5,8 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
-    <Folder Include="Entities\" />
+    <Folder Include="Convertors\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Security\" />
+    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 
 </Project>
