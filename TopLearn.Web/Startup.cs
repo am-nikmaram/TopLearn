@@ -43,7 +43,7 @@ namespace TopLearn.Web
                 app.UseDeveloperExceptionPage();
             }
             app.UseMvcWithDefaultRoute();
-            app.UseSpaStaticFiles();
+            app.UseStaticFiles();
 
             app.Run(async (context) =>
             {
